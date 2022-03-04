@@ -1,0 +1,23 @@
+{
+  "name": "vmobile",
+  "version": "1.0.0",
+  "description": "",
+  "exports": "./index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vite-mobile create name"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "vite-mobile": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "commander": "^9.0.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.2.0",
+    "ora": "^3.0.0"
+  }
+}
