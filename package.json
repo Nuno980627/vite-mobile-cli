@@ -1,15 +1,14 @@
 {
-  "name": "vmobile",
+  "name": "vite-mobile",
   "version": "1.0.0",
-  "description": "",
+  "description": "a cli to generate vite-demo-vant",
   "exports": "./index.js",
   "type": "module",
   "scripts": {
-    "test": "vite-mobile create name"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "zhengzewei",
+  "license": "MIT",
   "bin": {
     "vite-mobile": "index.js"
   },
